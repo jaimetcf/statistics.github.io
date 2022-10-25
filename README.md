@@ -3,14 +3,14 @@
 
 ## 1- Descriptive Statistics
 
-### 1.1- Population and Sample
-### 1.2- Data types
+#### 1.1- Population and Sample
+#### 1.2- Data types
     https://datatab.net/tutorial/level-of-measurement
 
-### 1.3- Mean, median, and mode
-### 1.4- Range, Variance, and Standard deviation
-### 1.5- Quartiles, Percentiles, and IQR
-### 1.6- Charts: Histogram, Box Plot, Scatter Plot
+#### 1.3- Mean, median, and mode
+#### 1.4- Range, Variance, and Standard deviation
+#### 1.5- Quartiles, Percentiles, and IQR
+#### 1.6- Charts: Histogram, Box Plot, Scatter Plot
 <p>&nbsp;</p>
 
 ---
