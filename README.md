@@ -32,42 +32,43 @@
 <p>&nbsp;</p>
 
 ### 2.3- Hypothesis testing
-    https://datatab.net/tutorial/hypothesis
-    https://datatab.net/tutorial/hypothesis-testing
+    [hypothesis](https://datatab.net/tutorial/hypothesis)
+    [hypothesis testing](https://datatab.net/tutorial/hypothesis-testing)
 
 #### 2.3.1- significance level (alpha) and p-value
-    https://datatab.net/tutorial/p-value
-    p-value: The probability of the observed result, or even more extreme values, in the sample, being the null hypothesis true for the population.
-
     significance level: Decision level for accepting/rejecting the null hypothesis. The probability of being wrong by chance, on rejecting/accepting the null/alternative hypothesis.
 
+    p-value: The probability of the observed result, or even more extreme values, in the sample, being the null hypothesis true for the population.
+
+    [significance level and p-value](https://datatab.net/tutorial/p-value)
+
 #### 2.3.2- One sample t-test
-    https://datatab.net/tutorial/one-sample-t-test
+    [one-sample-t-test](https://datatab.net/tutorial/one-sample-t-test)
 
 #### 2.3.3- Unpaired t-test (independent samples)
-    https://datatab.net/tutorial/unpaired-t-test
+    [unpaired-t-test](https://datatab.net/tutorial/unpaired-t-test
 
 #### 2.3.4- Paired t-test (dependent samples)
-    https://datatab.net/tutorial/paired-t-test
+    [paired-t-test](https://datatab.net/tutorial/paired-t-test)
 
 #### 2.3.5- Mann-Whitney U-test
-    https://datatab.net/tutorial/mann-whitney-u-test
+    [mann-whitney-u-test](https://datatab.net/tutorial/mann-whitney-u-test)
 
 #### 2.3.6- Chi-Squared test
-    https://datatab.net/tutorial/chi-square-test
+    [chi-square-test](https://datatab.net/tutorial/chi-square-test)
 
 #### 2.3.7- ANOVA
-    https://datatab.net/tutorial/anova
+    [ANOVA](https://datatab.net/tutorial/anova)
 
 <p>&nbsp;</p>
 
 ### 2.4- Correlation
-    https://datatab.net/tutorial/correlation
+    [Correlation](https://datatab.net/tutorial/correlation
 
 <p>&nbsp;</p>
 
 ### 2.5- Regression
-    https://datatab.net/tutorial/regression
+    [Regression](https://datatab.net/tutorial/regression)
 
 <p>&nbsp;</p>
 
