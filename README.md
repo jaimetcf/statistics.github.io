@@ -33,6 +33,7 @@
 
 ### 2.3- Hypothesis testing
 [hypothesis](https://datatab.net/tutorial/hypothesis)
+
 [hypothesis testing](https://datatab.net/tutorial/hypothesis-testing)
 <p>&nbsp;</p>
 
@@ -40,9 +41,9 @@
 
 [significance level and p-value](https://datatab.net/tutorial/p-value)
 
-    **significance level**: Decision level for accepting/rejecting the null hypothesis. The probability of being wrong by chance, on rejecting/accepting the null/alternative hypothesis.
+**significance level**: Decision level for accepting/rejecting the null hypothesis. The probability of being wrong by chance, on rejecting/accepting the null/alternative hypothesis.
 
-    **p-value**: The probability of the observed result, or even more extreme values, in the sample, being the null hypothesis true for the population.
+**p-value**: The probability of the observed result, or even more extreme values, in the sample, being the null hypothesis true for the population.
 <p>&nbsp;</p>
 
 
